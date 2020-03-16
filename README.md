@@ -1,0 +1,8 @@
+# Unit-3-Project
+By: Yash Rajani
+
+The purpose of this project is to better understand how to create an interactive form using jQuery and the skills that we learned from lessons in regular expressions and interactive tools. Primarily, we created an other input box in HTML and was able to manipulate the visibility of the box based on the user selection of the job role. Additionally, we were able to hide components of the t-shirt design color dropdown until the user interacted with that particular portion of the code. Once the user selects a design, then the color dropdown appears according to the specific design that was selected. For example, if the js puns design is selected, then only the colors that are permitted for that design will appear. I later worked on manipulating the checkbox for activities and was able to append a running count of the price that the selected activities cost. Then, we were able to create the portion of the interactive form that deals with the user payment. It will automatically select the credit card option, and it then incorportates a series of regexs with validations that can determine if the user correctly entered the credit card inputs. Finally, the form validation checks to ensure that the user properly completed the form based on the regular expressions and the existence of input on the other portions of the interactive form.
+
+I was able to learn a great deal about interactive forms and better my udnerstanding of jQuery and regular expressions through this project. Also, I was able to implement real-time form validation for a majority of the form, and since this did it for more than one element, I hope that this qualifies for the A category.
+
+Thanks!
